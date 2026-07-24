@@ -1,0 +1,33 @@
+claim_id,tpa_name,match_status,entity_id,entity_name,ndc,drug_name,fill_date,billed_price
+CLM001427,Kalderos,Duplicate Discount Risk,CE008,Lakeside Health Hospital 8,00002-1433-80,Insulin Glargine (Lantus),2026-06-12,140.0
+CLM000312,Kalderos,Duplicate Discount Risk,CE005,Lakeside Health Clinic 5,00003-0894-11,Apixaban (Eliquis) 5mg,2026-05-16,310.0
+CLM000892,Verity Solutions,Duplicate Discount Risk,CE004,St. Vincent Health Hospital 4,00006-0749-31,Sitagliptin (Januvia) 100mg,2026-04-08,380.0
+CLM001215,Macro Helix,Duplicate Discount Risk,CE003,Metro Health Clinic 3,00074-3799-13,Adalimumab (Humira),2026-03-29,4100.0
+CLM001110,Sentry Data Systems,Duplicate Discount Risk,CE010,St. Vincent Health Hospital 10,00002-1433-80,Insulin Glargine (Lantus),2026-03-14,140.0
+CLM000210,Sentry Data Systems,Duplicate Discount Risk,CE006,Metro Health Hospital 6,00078-0648-15,Fingolimod (Gilenya),2026-02-19,5300.0
+CLM000477,Kalderos,Duplicate Discount Risk,CE004,St. Vincent Health Hospital 4,00069-0150-01,Atorvastatin 20mg,2026-02-15,58.0
+CLM001452,Macro Helix,Duplicate Discount Risk,CE012,Metro Health Hospital 12,00003-0894-11,Apixaban (Eliquis) 5mg,2026-02-08,310.0
+CLM001980,Macro Helix,Duplicate Discount Risk,CE012,Metro Health Hospital 12,00069-0150-01,Atorvastatin 20mg,2026-01-19,58.0
+CLM000921,Macro Helix,Duplicate Discount Risk,CE004,St. Vincent Health Hospital 4,00003-0894-11,Apixaban (Eliquis) 5mg,2025-11-21,310.0
+CLM001242,Verity Solutions,Duplicate Discount Risk,CE002,Lakeside Health Hospital 2,00006-0749-31,Sitagliptin (Januvia) 100mg,2025-10-24,380.0
+CLM000219,Kalderos,Duplicate Discount Risk,CE011,Lakeside Health Clinic 11,00074-3799-13,Adalimumab (Humira),2025-10-09,4100.0
+CLM000497,Macro Helix,Duplicate Discount Risk,CE011,Lakeside Health Clinic 11,00093-7146-01,Lisinopril 10mg,2025-09-23,32.0
+CLM000143,Sentry Data Systems,Duplicate Discount Risk,CE006,Metro Health Hospital 6,00003-0894-11,Apixaban (Eliquis) 5mg,2025-09-02,310.0
+CLM000737,Sentry Data Systems,Duplicate Discount Risk,CE009,Metro Health Clinic 9,00074-3799-13,Adalimumab (Humira),2025-08-31,4100.0
+CLM001374,Kalderos,Duplicate Discount Risk,CE004,St. Vincent Health Hospital 4,00093-7146-01,Lisinopril 10mg,2025-08-14,32.0
+CLM001228,Sentry Data Systems,Duplicate Discount Risk,CE009,Metro Health Clinic 9,00074-3799-13,Adalimumab (Humira),2025-08-07,4100.0
+CLM001240,Kalderos,Duplicate Discount Risk,CE012,Metro Health Hospital 12,00093-7146-01,Lisinopril 10mg,2025-08-06,12.5
+CLM001390,Verity Solutions,Duplicate Discount Risk,CE006,Metro Health Hospital 6,00003-0894-11,Apixaban (Eliquis) 5mg,2025-07-30,310.0
+CLM000982,Sentry Data Systems,Duplicate Discount Risk,CE004,St. Vincent Health Hospital 4,00069-0150-01,Atorvastatin 20mg,2025-06-27,58.0
+CLM000599,Verity Solutions,Duplicate Discount Risk,CE002,Lakeside Health Hospital 2,00002-1433-80,Insulin Glargine (Lantus),2025-06-02,290.0
+CLM001165,Verity Solutions,Duplicate Discount Risk,CE008,Lakeside Health Hospital 8,00093-7146-01,Lisinopril 10mg,2025-06-01,12.5
+CLM001517,Sentry Data Systems,Duplicate Discount Risk,CE005,Lakeside Health Clinic 5,00003-0894-11,Apixaban (Eliquis) 5mg,2025-05-30,310.0
+CLM001066,Sentry Data Systems,Duplicate Discount Risk,CE004,St. Vincent Health Hospital 4,50242-0079-01,Trastuzumab (Herceptin),2025-05-26,1900.0
+CLM001958,Sentry Data Systems,Duplicate Discount Risk,CE002,Lakeside Health Hospital 2,00003-0894-11,Apixaban (Eliquis) 5mg,2025-05-22,310.0
+CLM000692,Kalderos,Duplicate Discount Risk,CE010,St. Vincent Health Hospital 10,50242-0079-01,Trastuzumab (Herceptin),2025-05-18,1900.0
+CLM001963,Macro Helix,Duplicate Discount Risk,CE003,Metro Health Clinic 3,00006-0749-31,Sitagliptin (Januvia) 100mg,2025-05-12,380.0
+CLM000017,Sentry Data Systems,Duplicate Discount Risk,CE009,Metro Health Clinic 9,00069-0150-01,Atorvastatin 20mg,2025-04-28,58.0
+CLM001582,Kalderos,Duplicate Discount Risk,CE003,Metro Health Clinic 3,00074-3799-13,Adalimumab (Humira),2025-04-05,4100.0
+CLM000116,Verity Solutions,Duplicate Discount Risk,CE003,Metro Health Clinic 3,00074-3799-13,Adalimumab (Humira),2025-03-29,6800.0
+CLM002000,Verity Solutions,Duplicate Discount Risk,CE007,St. Vincent Health Clinic 7,00003-0894-11,Apixaban (Eliquis) 5mg,2025-01-30,310.0
+CLM001844,Macro Helix,Duplicate Discount Risk,CE004,St. Vincent Health Hospital 4,50242-0079-01,Trastuzumab (Herceptin),2025-01-29,1900.0

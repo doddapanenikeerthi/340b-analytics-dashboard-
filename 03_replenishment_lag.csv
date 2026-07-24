@@ -1,0 +1,13 @@
+entity_id,entity_name,avg_lag_days,min_lag_days,max_lag_days,total_orders
+CE009,Metro Health Clinic 9,13.0,1,30,52
+CE004,St. Vincent Health Hospital 4,11.3,1,30,60
+CE008,Lakeside Health Hospital 8,10.9,1,30,50
+CE011,Lakeside Health Clinic 11,10.8,1,30,55
+CE007,St. Vincent Health Clinic 7,10.5,1,30,42
+CE012,Metro Health Hospital 12,10.3,1,30,44
+CE002,Lakeside Health Hospital 2,9.9,1,30,43
+CE010,St. Vincent Health Hospital 10,9.9,1,30,50
+CE005,Lakeside Health Clinic 5,9.8,1,30,52
+CE006,Metro Health Hospital 6,8.6,1,30,58
+CE001,St. Vincent Health Clinic 1,7.2,1,30,39
+CE003,Metro Health Clinic 3,7.0,1,30,55

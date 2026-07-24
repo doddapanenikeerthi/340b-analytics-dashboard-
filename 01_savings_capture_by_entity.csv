@@ -1,0 +1,13 @@
+entity_id,entity_name,entity_type,total_claims,eligible_claims,pct_captured_340b,total_savings_generated
+CE008,Lakeside Health Hospital 8,Hospital - CAH,182,156,85.7,159370.0
+CE009,Metro Health Clinic 9,Hospital - PED,171,153,89.5,156510.5
+CE003,Metro Health Clinic 3,Hospital - CAH,178,153,86.0,155638.0
+CE007,St. Vincent Health Clinic 7,Hospital - DSH,165,148,89.7,151163.0
+CE006,Metro Health Hospital 6,Ryan White Clinic,164,139,84.8,150065.5
+CE004,St. Vincent Health Hospital 4,Hospital - DSH,167,142,85.0,146248.5
+CE002,Lakeside Health Hospital 2,FQHC,182,162,89.0,142002.5
+CE005,Lakeside Health Clinic 5,Hospital - DSH,183,161,88.0,140374.0
+CE012,Metro Health Hospital 12,Ryan White Clinic,164,146,89.0,131137.5
+CE010,St. Vincent Health Hospital 10,Hospital - DSH,145,133,91.7,130247.0
+CE011,Lakeside Health Clinic 11,Hospital - CAH,161,132,82.0,125059.5
+CE001,St. Vincent Health Clinic 1,Hospital - DSH,138,125,90.6,112626.0

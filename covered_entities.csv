@@ -1,0 +1,13 @@
+entity_id,entity_name,entity_type,state
+CE001,St. Vincent Health Clinic 1,Hospital - DSH,OH
+CE002,Lakeside Health Hospital 2,FQHC,WI
+CE003,Metro Health Clinic 3,Hospital - CAH,WI
+CE004,St. Vincent Health Hospital 4,Hospital - DSH,IN
+CE005,Lakeside Health Clinic 5,Hospital - DSH,IN
+CE006,Metro Health Hospital 6,Ryan White Clinic,OH
+CE007,St. Vincent Health Clinic 7,Hospital - DSH,OH
+CE008,Lakeside Health Hospital 8,Hospital - CAH,WI
+CE009,Metro Health Clinic 9,Hospital - PED,IN
+CE010,St. Vincent Health Hospital 10,Hospital - DSH,IN
+CE011,Lakeside Health Clinic 11,Hospital - CAH,IN
+CE012,Metro Health Hospital 12,Ryan White Clinic,WI

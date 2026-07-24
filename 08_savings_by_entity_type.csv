@@ -1,0 +1,6 @@
+entity_type,num_entities,total_claims,total_savings,avg_savings_per_entity
+Hospital - DSH,5,798,680658.5,136131.7
+Hospital - CAH,3,521,440067.5,146689.17
+Ryan White Clinic,2,328,281203.0,140601.5
+Hospital - PED,1,171,156510.5,156510.5
+FQHC,1,182,142002.5,142002.5

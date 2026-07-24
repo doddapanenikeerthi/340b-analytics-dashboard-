@@ -1,0 +1,13 @@
+tpa_name,match_status,claim_count,pct_of_tpa_volume
+Kalderos,Matched,135,84.9
+Kalderos,Unmatched - Review,16,10.1
+Kalderos,Duplicate Discount Risk,8,5.0
+Macro Helix,Matched,138,85.7
+Macro Helix,Unmatched - Review,16,9.9
+Macro Helix,Duplicate Discount Risk,7,4.3
+Sentry Data Systems,Matched,141,86.5
+Sentry Data Systems,Unmatched - Review,12,7.4
+Sentry Data Systems,Duplicate Discount Risk,10,6.1
+Verity Solutions,Matched,150,84.7
+Verity Solutions,Unmatched - Review,20,11.3
+Verity Solutions,Duplicate Discount Risk,7,4.0

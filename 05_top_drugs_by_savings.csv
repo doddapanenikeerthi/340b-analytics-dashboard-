@@ -1,0 +1,9 @@
+ndc,drug_name,eligible_claim_count,total_savings,avg_savings_per_claim
+00078-0648-15,Fingolimod (Gilenya),227,658300.0,2900.0
+00074-3799-13,Adalimumab (Humira),220,594000.0,2700.0
+50242-0079-01,Trastuzumab (Herceptin),228,296400.0,1300.0
+00006-0749-31,Sitagliptin (Januvia) 100mg,229,52670.0,230.0
+00003-0894-11,Apixaban (Eliquis) 5mg,216,45360.0,210.0
+00002-1433-80,Insulin Glargine (Lantus),214,32100.0,150.0
+00069-0150-01,Atorvastatin 20mg,200,17400.0,87.0
+00093-7146-01,Lisinopril 10mg,216,4212.0,19.5
